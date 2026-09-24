@@ -1,0 +1,15 @@
+[package]
+name = "stud-cli"
+description = "An AI agent in your terminal that builds Roblox places in Studio"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[[bin]]
+name = "stud"
+path = "src/main.rs"
+
+[dependencies]
+stud-core = { path = "../stud-core" }

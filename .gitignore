@@ -1,0 +1,8 @@
+/target
+/Stud.rbxm
+*.rbxl.lock
+.stud/cache/
+.DS_Store
+
+# The Windows build is attached to each release, not committed.
+/release/
