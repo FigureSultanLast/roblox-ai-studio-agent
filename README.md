@@ -33,12 +33,11 @@ It's free and open source. Out of the box it runs on a free local model through 
 
 
 
-1. Download [`roblox-ai-studio-agent.zip`](https://github.com/FigureSultanLast/roblox-ai-studio-agent/releases/latest/download/roblox-ai-studio-agent.zip) and start it. No installer, no admin rights.
+1. Download [`Studio-1.8.6-portable-x64.exe`](https://github.com/FigureSultanLast/roblox-ai-studio-agent/releases/latest/download/Studio-1.8.6-portable-x64.exe) and start it. No installer, no admin rights.
 
-Unpack the whole folder and start `Main.exe`. No installer, no admin rights.
+Download and start the exe. No installer, no admin rights.
 
-`Main.exe` is code-signed, so Windows starts it without a warning. Keep
-`Studio` next to it: they ship together.
+The build is not code-signed yet, so SmartScreen may warn once: choose **More info**, then **Run anyway**.
 
 ## How to use
 
